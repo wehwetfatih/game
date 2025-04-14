@@ -1,0 +1,4 @@
+repository "Ders_14NisanVol1/Ders_14NisanVol1@18968118345463@cloud"
+  path "/"
+    br "/main"
+    co "/main"
